@@ -1,0 +1,78 @@
+#####################create function from UDF##########################
+add jar hdfs:///user/root/UDF.jar;
+
+create function parsua as'UDF_Parser';
+
+create table uadat as select c.name , t.device, t.os, t.browser, t.ua from
+(select ft.os, ft.ua, ft.browser, ft.device, d.cityid
+ from data as d
+ lateral view parsua(d.ua) ft) t 
+join city c on (t.cityid=c.id);
+
+#################create views for count amount params for city###################
+
+drop view if exists device;
+drop view if exists os;
+drop view if exists browser;
+drop view if exists ua;
+
+create view device as
+select name, device, count(*) as dcount
+from uadat
+group by name, device;
+
+create view os as
+select name, os, count(*) as ocount
+from uadat
+group by name, os;
+
+create view browser as
+select name, browser, count(*) as bcount
+from uadat
+group by name, browser;
+
+create view ua as
+select name, ua, count(*) as ucount
+from uadat
+group by name, ua;
+
+########################create view for count most popular params for city##########################
+
+drop view if exists dmark;
+drop view if exists omark;
+drop view if exists bmark;
+drop view if exists umark;
+
+create view dmark as
+select name, device, 
+rank() over (partition by name order by dcount) as dmark
+from device;
+
+create view omark as
+select name, os, 
+rank() over (partition by name order by ocount) as omark
+from os;
+
+create view bmark as
+select name, browser, 
+rank() over (partition by name order by bcount) as bmark
+from browser;
+
+create view umark as
+select name, ua, 
+rank() over (partition by name order by ucount) as umark
+from ua;
+
+####################get all statistic with popular params by city########################## 
+
+select d.name as city, d.device as device, o.os as os_name, b.browser as browser, u.ua as ua 
+from dmark as d
+join omark as o
+on(d.name=o.name) and 
+(o.omark=1) and (d.dmark=1)
+join bmark as b
+on(d.name=b.name) and 
+(b.bmark=1) and (d.dmark=1)
+join umark as u
+on(d.name=u.name) and 
+(u.umark=1) and (d.dmark=1);

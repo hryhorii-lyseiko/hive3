@@ -1,0 +1,547 @@
+city,device,os_name,browser,ua
+aba,Mobile,ANDROID,Mozilla,Browser
+akesu,Tablet,IOS,Safari,Browser
+alashan,Tablet,IOS,Safari,Browser
+aletai,Mobile,ANDROID,Safari,Browser
+ali,Computer,MAC_OS_X,Internet Explorer,Browser
+ali,Computer,MAC_OS_X,Safari,Browser
+ali,Computer,WINDOWS,Internet Explorer,Browser
+ali,Computer,WINDOWS,Safari,Browser
+anhui,Unknown,MAC_OS_X,Unknown,unknown
+anhui,Unknown,MAC_OS_X,Firefox,unknown
+ankang,Tablet,MAC_OS_X,Apple WebKit,Browser
+anqing,Tablet,IOS,Firefox,Browser
+anshan,Unknown,UNKNOWN,Unknown,unknown
+anshan,Unknown,UNKNOWN,Firefox,unknown
+anshun,Tablet,IOS,Apple WebKit,Browser
+anyang,Unknown,MAC_OS_X,Unknown,unknown
+anyang,Unknown,UNKNOWN,Unknown,unknown
+aomen,Tablet,MAC_OS_X,Apple WebKit,Browser
+baicheng,Tablet,IOS,Mozilla,Browser
+baise,Mobile,MAC_OS_X,Apple WebKit,Browser
+baishan,Tablet,IOS,Mozilla,Browser
+baiyin,Mobile,ANDROID,Safari,Browser
+bangbu,Tablet,IOS,Apple WebKit,Browser
+baoding,Unknown,UNKNOWN,Unknown,unknown
+baoji,Tablet,IOS,Mozilla,Browser
+baoji,Tablet,IOS,Firefox,Browser
+baoshan,Mobile,ANDROID,Apple WebKit,Browser
+baotou,Tablet,MAC_OS_X,Apple WebKit,Browser
+baotou,Tablet,MAC_OS_X,Opera,Browser
+bayannaoer,Tablet,IOS,Mozilla,Browser
+bayannaoer,Tablet,IOS,Firefox,Browser
+bayinguoleng,Tablet,MAC_OS_X,Mozilla,Browser
+bazhong,Tablet,IOS,Apple WebKit,Browser
+beihai,Tablet,IOS,Firefox,Browser
+beijing,Unknown,LINUX,Unknown,unknown
+benxi,Unknown,UNKNOWN,Unknown,unknown
+bijie,Tablet,IOS,Mozilla,Browser
+bijie,Tablet,IOS,Apple WebKit,Browser
+binzhou,Tablet,IOS,Mozilla,Browser
+binzhou,Tablet,IOS,Firefox,Browser
+binzhou,Tablet,IOS,Apple WebKit,Browser
+binzhou,Tablet,MAC_OS_X,Mozilla,Browser
+binzhou,Tablet,MAC_OS_X,Firefox,Browser
+binzhou,Tablet,MAC_OS_X,Apple WebKit,Browser
+boertala,Mobile,ANDROID,Safari,Browser
+bozhou,Tablet,IOS,Apple WebKit,Browser
+cangzhou,Unknown,UNKNOWN,Unknown,unknown
+changchun,Tablet,LINUX,Opera,Browser
+changde,Tablet,MAC_OS_X,Firefox,Browser
+changdu,Computer,WINDOWS,Internet Explorer,Browser
+changji,Tablet,LINUX,Apple WebKit,Browser
+changji,Tablet,LINUX,Firefox,Browser
+changji,Tablet,MAC_OS_X,Apple WebKit,Browser
+changji,Tablet,MAC_OS_X,Firefox,Browser
+changsha,Unknown,LINUX,Opera,unknown
+changzhi,Tablet,MAC_OS_X,Firefox,Browser
+changzhi,Tablet,MAC_OS_X,Apple WebKit,Browser
+changzhou,Tablet,MAC_OS_X,Mozilla,Browser
+changzhou,Tablet,MAC_OS_X,Opera,Browser
+chaohu,Unknown,UNKNOWN,Unknown,unknown
+chaoyang,Unknown,UNKNOWN,Apple WebKit,unknown
+chaoyang,Unknown,UNKNOWN,Unknown,unknown
+chaoyang,Unknown,UNKNOWN,Mozilla,unknown
+chaoyang,Unknown,UNKNOWN,Firefox,unknown
+chaozhou,Tablet,IOS,Firefox,Browser
+chengde,Tablet,IOS,Opera,Browser
+chengdu,Tablet,LINUX,Unknown,unknown
+chenzhou,Tablet,IOS,Apple WebKit,Browser
+chifeng,Tablet,IOS,Apple WebKit,Browser
+chizhou,Mobile,ANDROID,Firefox,Browser
+chongqing,Unknown,BLACKBERRY,Unknown,unknown
+chongqing,Unknown,LINUX,Unknown,unknown
+chongzuo,Mobile,ANDROID,Safari,Browser
+chuxiong,Tablet,MAC_OS_X,Mozilla,Browser
+chuxiong,Tablet,MAC_OS_X,Apple WebKit,Browser
+chuzhou,Mobile,ANDROID,Opera,Browser
+dali,Tablet,MAC_OS_X,Apple WebKit,Browser
+dalian,Unknown,LINUX,Unknown,unknown
+dalian,Unknown,UNKNOWN,Unknown,unknown
+dandong,Unknown,UNKNOWN,Unknown,unknown
+dandong,Unknown,UNKNOWN,Mozilla,unknown
+daqing,Unknown,UNKNOWN_MOBILE,Opera,unknown
+daqing,Unknown,UNKNOWN_MOBILE,Unknown,unknown
+daqing,Unknown,UNKNOWN_MOBILE,Apple WebKit,unknown
+datong,Tablet,MAC_OS_X,Mozilla,Browser
+daxinganling,Mobile,ANDROID,Safari,Browser
+dazhou,Tablet,IOS,Apple WebKit,Browser
+dazhou,Tablet,MAC_OS_X,Apple WebKit,Browser
+dehong,Tablet,ANDROID,Apple WebKit,Browser
+deyang,Tablet,IOS,Firefox,Browser
+dezhou,Tablet,IOS,Firefox,Browser
+dingxi,Mobile,ANDROID,Safari,Browser
+diqing,Mobile,ANDROID,Internet Explorer,Browser
+diqing,Mobile,ANDROID,Safari,Browser
+dongguan,Tablet,LINUX,Opera,Browser
+dongying,Tablet,IOS,Mozilla,unknown
+dongying,Tablet,IOS,Firefox,unknown
+dongying,Tablet,IOS,Unknown,unknown
+eerduosi,Tablet,MAC_OS_X,Apple WebKit,Browser
+enshishi,Tablet,IOS,Firefox,Browser
+ezhou,Tablet,IOS,Firefox,Browser
+fangchenggang,Mobile,IOS,Apple WebKit,Browser
+foshan,Tablet,MAC_OS_X,Firefox,Browser
+foshan,Tablet,MAC_OS_X,Opera,Browser
+fujian,Tablet,IOS,Firefox,Browser
+fushun,Tablet,MAC_OS_X,Firefox,Browser
+fuxin,Tablet,IOS,Firefox,Browser
+fuyang,Unknown,UNKNOWN,Unknown,unknown
+fuzhou_124,Tablet,BLACKBERRY_TABLET,Opera,Browser
+fuzhou_134,Tablet,MAC_OS_X,Firefox,Browser
+gannan,Mobile,ANDROID,Safari,Browser
+gansu,Tablet,IOS,Chrome,Browser
+ganzhou,Unknown,LINUX,Firefox,unknown
+ganzhou,Unknown,LINUX,Unknown,unknown
+ganzhou,Unknown,UNKNOWN,Firefox,unknown
+ganzhou,Unknown,UNKNOWN,Unknown,unknown
+ganzi,Computer,IOS,Chrome,Browser
+guangan,Tablet,IOS,Apple WebKit,Browser
+guangan,Tablet,IOS,Mozilla,Browser
+guangdong,Tablet,MAC_OS_X,Mozilla,Browser
+guangxi,Tablet,IOS,Apple WebKit,Browser
+guangyuan,Tablet,IOS,Mozilla,Browser
+guangzhou,Unknown,LINUX,Unknown,unknown
+guigang,Tablet,IOS,Apple WebKit,Browser
+guilin,Tablet,MAC_OS_X,Apple WebKit,Browser
+guiyang,Tablet,IOS,Firefox,Browser
+guoluo,Mobile,MAC_OS_X,Safari,Browser
+guoluo,Mobile,MAC_OS_X,Internet Explorer,Browser
+guoluo,Mobile,ANDROID,Safari,Browser
+guoluo,Mobile,ANDROID,Internet Explorer,Browser
+guyuan,Mobile,ANDROID,Safari,Browser
+guyuan,Mobile,ANDROID,Chrome,Browser
+haerbin,Unknown,UNKNOWN,Opera,Browser
+haibei,Mobile,ANDROID,Internet Explorer,Browser
+haibei,Mobile,ANDROID,Safari,Browser
+haibei,Mobile,ANDROID,Chrome,Browser
+haidong,Mobile,ANDROID,Chrome,Browser
+haikou,Unknown,UNKNOWN,Unknown,unknown
+hainan,Computer,WINDOWS,Internet Explorer,Browser
+hainanzangzu,Mobile,ANDROID,Safari,Browser
+haixi,Tablet,ANDROID,Safari,Browser
+hami,Mobile,MAC_OS_X,Chrome,Browser
+handan,Unknown,UNKNOWN,Unknown,unknown
+handan,Unknown,MAC_OS_X,Unknown,unknown
+hangzhou,Unknown,LINUX,Mozilla,unknown
+hanzhong,Tablet,IOS,Safari,Browser
+hebei,Tablet,IOS,Apple WebKit,Browser
+hebi,Tablet,IOS,Firefox,Browser
+hechi,Tablet,IOS,Mozilla,Browser
+hefei,Tablet,LINUX,Unknown,unknown
+hegang,Mobile,ANDROID,Apple WebKit,Browser
+heihe,Tablet,MAC_OS_X,Apple WebKit,unknown
+heihe,Tablet,MAC_OS_X,Opera,unknown
+heihe,Tablet,IOS,Apple WebKit,unknown
+heihe,Tablet,IOS,Opera,unknown
+heilongjiang,Unknown,LINUX,Mozilla,Browser
+heilongjiang,Unknown,UNKNOWN,Mozilla,Browser
+henan,Tablet,MAC_OS_X,Mozilla,Browser
+hengshui,Tablet,MAC_OS_X,Firefox,Browser
+hengyang,Unknown,MAC_OS_X,Apple WebKit,unknown
+hengyang,Unknown,MAC_OS_X,Unknown,unknown
+hengyang,Unknown,UNKNOWN,Apple WebKit,unknown
+hengyang,Unknown,UNKNOWN,Unknown,unknown
+hetian,Mobile,ANDROID,Chrome,Browser
+heyuan,Tablet,IOS,Firefox,Browser
+heze,Tablet,IOS,Firefox,Browser
+heze,Tablet,IOS,Mozilla,Browser
+hezhou,Tablet,ANDROID,Chrome,Browser
+honghe,Tablet,IOS,Firefox,Browser
+huaian,Tablet,MAC_OS_X,Apple WebKit,Browser
+huaibei,Mobile,ANDROID,Apple WebKit,Browser
+huaihua,Tablet,IOS,Chrome,Browser
+huainan,Tablet,MAC_OS_X,Mozilla,Browser
+huainan,Tablet,MAC_OS_X,Opera,Browser
+huanggang,Unknown,UNKNOWN,Unknown,unknown
+huanggang,Unknown,LINUX,Unknown,unknown
+huangnan,Computer,WINDOWS,Internet Explorer,Browser
+huangshan,Tablet,IOS,Firefox,Browser
+huangshi,Tablet,IOS,Opera,Browser
+hubei,Tablet,IOS,Chrome,Browser
+huhehaote,Unknown,UNKNOWN,Opera,unknown
+huhehaote,Unknown,UNKNOWN,Unknown,unknown
+huizhou,Tablet,MAC_OS_X,Opera,Browser
+huizhou,Tablet,LINUX,Opera,Browser
+huludao,Tablet,MAC_OS_X,Apple WebKit,Browser
+huludao,Tablet,MAC_OS_X,Mozilla,Browser
+hulunbeier,Tablet,MAC_OS_X,Apple WebKit,Browser
+hunan,Tablet,MAC_OS_X,Firefox,Browser
+hunan,Tablet,IOS,Firefox,Browser
+huzhou,Unknown,UNKNOWN,Firefox,unknown
+huzhou,Unknown,UNKNOWN,Unknown,unknown
+jiamusi,Tablet,LINUX,Apple WebKit,Browser
+jiamusi,Tablet,IOS,Apple WebKit,Browser
+jian,Tablet,IOS,Firefox,Browser
+jian,Tablet,IOS,Apple WebKit,Browser
+jiangmen,Tablet,MAC_OS_X,Mozilla,Browser
+jiangmen,Tablet,MAC_OS_X,Firefox,Browser
+jiangsu,Tablet,MAC_OS_X,Apple WebKit,Browser
+jiangsu,Tablet,MAC_OS_X,Opera,Browser
+jiangxi,Tablet,LINUX,Firefox,Browser
+jiaozuo,Tablet,MAC_OS_X,Mozilla,Browser
+jiaxing,Unknown,LINUX,Firefox,Browser
+jiaxing,Unknown,UNKNOWN,Firefox,Browser
+jiaxing,Unknown,MAC_OS_X,Firefox,Browser
+jiayuguan,Tablet,IOS,Chrome,Browser
+jieyang,Tablet,IOS,Firefox,Browser
+jieyang,Tablet,IOS,Mozilla,Browser
+jilin_city,Tablet,MAC_OS_X,Apple WebKit,Browser
+jinan,Unknown,UNKNOWN,Unknown,unknown
+jinchang,Mobile,ANDROID,Safari,Browser
+jincheng,Tablet,MAC_OS_X,Mozilla,Browser
+jingdezhen,Unknown,UNKNOWN,Unknown,unknown
+jingdezhen,Unknown,UNKNOWN,Apple WebKit,unknown
+jingmen,Tablet,IOS,Opera,Browser
+jingmen,Tablet,IOS,Firefox,Browser
+jingmen,Tablet,MAC_OS_X,Opera,Browser
+jingmen,Tablet,MAC_OS_X,Firefox,Browser
+jingzhou,Tablet,MAC_OS_X,Apple WebKit,Browser
+jingzhou,Tablet,MAC_OS_X,Mozilla,Browser
+jinhua,Unknown,MAC_OS_X,Unknown,unknown
+jinhua,Unknown,UNKNOWN,Unknown,unknown
+jining,Tablet,IOS,Apple WebKit,Browser
+jinzhongshi,Tablet,MAC_OS_X,Apple WebKit,Browser
+jinzhou,Tablet,MAC_OS_X,Firefox,Browser
+jinzhou,Tablet,MAC_OS_X,Apple WebKit,Browser
+jiujiang,Tablet,IOS,Mozilla,Browser
+jiujiang,Tablet,IOS,Firefox,Browser
+jiuquan,Tablet,IOS,Apple WebKit,Browser
+jixi,Tablet,IOS,Apple WebKit,Browser
+jixi,Tablet,IOS,Mozilla,Browser
+kaifeng,Tablet,IOS,Apple WebKit,Browser
+kashi,Mobile,IOS,Apple WebKit,Browser
+kashi,Mobile,IOS,Firefox,Browser
+kelamayi,Tablet,IOS,Apple WebKit,Browser
+kezilesukeerkezi,Mobile,ANDROID,Apple WebKit,Browser
+kunming,Unknown,LINUX,Unknown,unknown
+kunming,Unknown,LINUX,Mozilla,unknown
+kunming,Unknown,UNKNOWN,Unknown,unknown
+kunming,Unknown,UNKNOWN,Mozilla,unknown
+kunming,Unknown,MEEGO,Unknown,unknown
+kunming,Unknown,MEEGO,Mozilla,unknown
+laibin,Tablet,IOS,Safari,Browser
+laiwu,Tablet,IOS,Opera,Browser
+laiwu,Tablet,IOS,Firefox,Browser
+laiwu,Tablet,IOS,Mozilla,Browser
+langfang,Tablet,MAC_OS_X,Opera,Browser
+lanzhou,Tablet,SYMBIAN,Mozilla,Browser
+lasa,Tablet,IOS,Apple WebKit,Browser
+lasa,Tablet,IOS,Mozilla,Browser
+leshan,Tablet,MAC_OS_X,Firefox,Browser
+liangshan,Tablet,IOS,Apple WebKit,Browser
+lianyungang,Tablet,MAC_OS_X,Mozilla,Browser
+lianyungang,Tablet,MAC_OS_X,Firefox,Browser
+liaocheng,Tablet,MAC_OS_X,Mozilla,Browser
+liaoning,Tablet,LINUX,Mozilla,Browser
+liaoning,Tablet,LINUX,Firefox,Browser
+liaoning,Tablet,LINUX,Apple WebKit,Browser
+liaoyang,Tablet,IOS,Mozilla,Browser
+liaoyang,Tablet,IOS,Apple WebKit,Browser
+liaoyuan,Tablet,IOS,Safari,Browser
+lijiang,Tablet,IOS,Chrome,Browser
+lijiang,Tablet,MAC_OS_X,Chrome,Browser
+lincang,Tablet,IOS,Apple WebKit,Browser
+linfen,Tablet,IOS,Mozilla,Browser
+linxia,Tablet,IOS,Apple WebKit,Browser
+linyi,Unknown,UNKNOWN,Opera,unknown
+linzhi,Mobile,ANDROID,Safari,Browser
+linzhi,Mobile,ANDROID,Chrome,Browser
+lishui,Tablet,WINDOWS,Firefox,Browser
+liuan,Tablet,IOS,Firefox,Browser
+liupanshui,Mobile,ANDROID,Firefox,Browser
+liuzhou,Tablet,MAC_OS_X,Firefox,Browser
+longnan,Tablet,IOS,Firefox,Browser
+longyan,Unknown,UNKNOWN,Unknown,unknown
+loudi,Unknown,UNKNOWN,Unknown,unknown
+luohe,Tablet,MAC_OS_X,Apple WebKit,Browser
+luohe,Tablet,MAC_OS_X,Mozilla,Browser
+luoyang,Tablet,MAC_OS_X,Opera,Browser
+luoyang,Tablet,MAC_OS_X,Firefox,Browser
+luzhou,Tablet,IOS,Firefox,Browser
+lvliang,Tablet,MAC_OS_X,Mozilla,Browser
+maanshan,Tablet,MAC_OS_X,Apple WebKit,Browser
+maoming,Tablet,ANDROID,Mozilla,Browser
+maoming,Tablet,ANDROID,Apple WebKit,Browser
+meishan,Tablet,MAC_OS_X,Chrome,Browser
+meizhou,Tablet,IOS,Mozilla,Browser
+mianyang,Tablet,IOS,Opera,Browser
+mudanjiang,Unknown,MAC_OS_X,Unknown,unknown
+mudanjiang,Unknown,MAC_OS_X,Firefox,unknown
+nanchang,Tablet,MAC_OS_X,Mozilla,Browser
+nanchong,Tablet,IOS,Apple WebKit,Browser
+nanjing,Tablet,MAC_OS_X,Opera,Browser
+nanning,Tablet,LINUX,Mozilla,Browser
+nanping,Tablet,IOS,Apple WebKit,Browser
+nantong,Tablet,MAC_OS_X,Opera,Browser
+nanyang,Tablet,LINUX,Opera,Browser
+nanyang,Tablet,LINUX,Mozilla,Browser
+naqu,Computer,WINDOWS,Chrome,Browser
+naqu,Computer,WINDOWS,Internet Explorer,Browser
+neijiang,Tablet,IOS,Mozilla,Browser
+neimenggu,Unknown,UNKNOWN,Unknown,unknown
+neimenggu,Unknown,UNKNOWN,Mozilla,unknown
+ningbo,Unknown,LINUX,Unknown,unknown
+ningbo,Unknown,UNKNOWN,Unknown,unknown
+ningde,Unknown,MAC_OS_X,Firefox,unknown
+ningxia,Tablet,IOS,Chrome,Browser
+ningxia,Tablet,MAC_OS_X,Chrome,Browser
+nujiang,Computer,WINDOWS,Internet Explorer,Browser
+panjin,Tablet,IOS,Apple WebKit,Browser
+panjin,Tablet,IOS,Opera,Browser
+panjin,Tablet,IOS,Firefox,Browser
+panzhihua,Tablet,IOS,Chrome,Browser
+pingdingshan,Tablet,IOS,Mozilla,Browser
+pingliang,Tablet,IOS,Apple WebKit,Browser
+pingxiang,Tablet,ANDROID,Apple WebKit,Browser
+pingxiang,Tablet,ANDROID,Firefox,Browser
+puer,Tablet,IOS,Safari,Browser
+putian,Tablet,IOS,Apple WebKit,Browser
+putian,Tablet,IOS,Mozilla,Browser
+putian,Tablet,IOS,Opera,Browser
+puyang,Tablet,IOS,Apple WebKit,Browser
+qiandongnan,Tablet,IOS,Firefox,Browser
+qiannan,Tablet,IOS,Chrome,Browser
+qianxinan,Tablet,IOS,Apple WebKit,Browser
+qingdao,Tablet,MAC_OS_X,Opera,Browser
+qingdao,Tablet,MAC_OS_X,Mozilla,Browser
+qinghai,Mobile,ANDROID,Chrome,Browser
+qingyang,Mobile,ANDROID,Apple WebKit,Browser
+qingyuan,Unknown,UNKNOWN,Mozilla,unknown
+qinhuangdao,Tablet,MAC_OS_X,Opera,Browser
+qinhuangdao,Tablet,MAC_OS_X,Apple WebKit,Browser
+qinhuangdao,Tablet,MAC_OS_X,Firefox,Browser
+qinzhou,Unknown,MAC_OS_X,Unknown,unknown
+qinzhou,Unknown,MAC_OS_X,Apple WebKit,unknown
+qinzhou,Unknown,MAC_OS_X,Firefox,unknown
+qinzhou,Unknown,MAC_OS_X,Opera,unknown
+qinzhou,Unknown,UNKNOWN,Unknown,unknown
+qinzhou,Unknown,UNKNOWN,Apple WebKit,unknown
+qinzhou,Unknown,UNKNOWN,Firefox,unknown
+qinzhou,Unknown,UNKNOWN,Opera,unknown
+qiqihaer,Unknown,MAC_OS_X,Firefox,Browser
+qitaihe,Tablet,IOS,Chrome,Browser
+quanzhou,Tablet,MAC_OS_X,Mozilla,Browser
+quanzhou,Tablet,MAC_OS_X,Firefox,Browser
+qujing,Tablet,IOS,Mozilla,Browser
+qujing,Tablet,IOS,Firefox,Browser
+qujing,Tablet,MAC_OS_X,Mozilla,Browser
+qujing,Tablet,MAC_OS_X,Firefox,Browser
+quzhou,Tablet,LINUX,Firefox,Browser
+rikaze,Mobile,ANDROID,Safari,Browser
+rizhao,Tablet,MAC_OS_X,Firefox,Browser
+rizhao,Tablet,MAC_OS_X,Apple WebKit,Browser
+sanmenxia,Tablet,IOS,Opera,Browser
+sanmenxia,Tablet,IOS,Mozilla,Browser
+sanming,Unknown,UNKNOWN,Unknown,unknown
+sanming,Unknown,UNKNOWN,Opera,unknown
+sanya,Tablet,IOS,Chrome,Browser
+sanya,Tablet,IOS,Safari,Browser
+shandong,Unknown,MAC_OS_X,Unknown,unknown
+shandong,Unknown,MAC_OS_X,Firefox,unknown
+shandong,Unknown,MAC_OS_X,Apple WebKit,unknown
+shandong,Unknown,UNKNOWN,Unknown,unknown
+shandong,Unknown,UNKNOWN,Firefox,unknown
+shandong,Unknown,UNKNOWN,Apple WebKit,unknown
+shanghai,Unknown,UNKNOWN,Unknown,unknown
+shangluo,Tablet,IOS,Apple WebKit,Browser
+shangluo,Tablet,IOS,Firefox,Browser
+shangqiu,Unknown,LINUX,Unknown,unknown
+shangqiu,Unknown,UNKNOWN,Unknown,unknown
+shangqiu,Unknown,MAC_OS_X,Unknown,unknown
+shangrao,Unknown,UNKNOWN,Unknown,unknown
+shangrao,Unknown,UNKNOWN,Mozilla,unknown
+shannan,Mobile,ANDROID,Chrome,Browser
+shannxi,Tablet,MAC_OS_X,Apple WebKit,Browser
+shantou,Tablet,MAC_OS_X,Firefox,Browser
+shanwei,Tablet,IOS,Mozilla,Browser
+shanwei,Tablet,IOS,Firefox,Browser
+shanxi,Tablet,IOS,Apple WebKit,Browser
+shaoguan,Tablet,IOS,Apple WebKit,Browser
+shaoguan,Tablet,IOS,Firefox,Browser
+shaoxing,Unknown,UNKNOWN,Mozilla,unknown
+shaoxing,Unknown,UNKNOWN,Unknown,unknown
+shaoyang,Tablet,MAC_OS_X,Firefox,Browser
+shenyang,Unknown,UNKNOWN,Mozilla,unknown
+shenyang,Unknown,UNKNOWN,Unknown,unknown
+shenyang,Unknown,UNKNOWN,Opera,unknown
+shenzhen,Unknown,LINUX,Unknown,unknown
+shenzhen,Unknown,UNKNOWN,Unknown,unknown
+shijiazhuang,Tablet,MAC_OS_X,Mozilla,Browser
+shiyan,Tablet,MAC_OS_X,Chrome,Browser
+shizuishan,Unknown,UNKNOWN,Apple WebKit,unknown
+shizuishan,Unknown,UNKNOWN,Unknown,unknown
+shuangyashan,Tablet,IOS,Opera,Browser
+shuozhou,Tablet,MAC_OS_X,Mozilla,Browser
+sichuan,Tablet,MAC_OS_X,Apple WebKit,Browser
+siping,Tablet,IOS,Firefox,Browser
+siping,Tablet,IOS,Mozilla,Browser
+siping,Tablet,IOS,Apple WebKit,Browser
+songyuan,Tablet,MAC_OS_X,Apple WebKit,Browser
+songyuan,Tablet,MAC_OS_X,Mozilla,Browser
+suihua,Tablet,MAC_OS_X,Firefox,Browser
+suining,Unknown,UNKNOWN,Unknown,unknown
+suizhou,Tablet,IOS,Mozilla,Browser
+suqian,Unknown,UNKNOWN,Unknown,unknown
+suzhou,Unknown,UNKNOWN,Unknown,unknown
+suzhou_jiangsu,Unknown,UNKNOWN,Opera,Browser
+tacheng,Mobile,MAC_OS_X,Safari,Browser
+taian,Tablet,IOS,Opera,Browser
+taiwan,Unknown,UNKNOWN,Opera,Browser
+taiyuan,Unknown,LINUX,Unknown,unknown
+taizhou,Tablet,MAC_OS_X,Opera,Browser
+taizhou,Tablet,MAC_OS_X,Mozilla,Browser
+taizhou_jiangsu,Tablet,IOS,Firefox,Browser
+tangshan,Tablet,MAC_OS_X,Firefox,Browser
+tangshan,Tablet,MAC_OS_X,Opera,Browser
+tianjin,Unknown,UNKNOWN,Unknown,unknown
+tianshui,Mobile,ANDROID,Safari,Browser
+tieling,Tablet,LINUX,Mozilla,Browser
+tonghua,Tablet,IOS,Firefox,Browser
+tongliao,Tablet,IOS,Mozilla,Browser
+tongling,Tablet,LINUX,Safari,Browser
+tongling,Tablet,IOS,Safari,Browser
+tongren,Tablet,IOS,Apple WebKit,Browser
+tongzhou,Tablet,ANDROID,Chrome,Browser
+tulufan,Mobile,ANDROID,Apple WebKit,Browser
+unknown,Unknown,UNKNOWN_MOBILE,Unknown,unknown
+weifang,Tablet,IOS,Apple WebKit,Browser
+weifang,Tablet,IOS,Opera,Browser
+weihai,Tablet,MAC_OS_X,Firefox,Browser
+weinan,Unknown,MAC_OS_X,Unknown,unknown
+weinan,Unknown,UNKNOWN,Unknown,unknown
+wenshan,Tablet,IOS,Mozilla,Browser
+wenshan,Tablet,IOS,Opera,Browser
+wenzhou,Unknown,UNKNOWN,Unknown,unknown
+wuhai,Tablet,IOS,Firefox,Browser
+wuhan,Tablet,MAC_OS_X,Mozilla,Browser
+wuhu,Tablet,IOS,Firefox,Browser
+wulanchabu,Tablet,IOS,Apple WebKit,Browser
+wulanchabu,Tablet,IOS,Mozilla,Browser
+wulanchabu,Tablet,IOS,Firefox,Browser
+wulanchabu,Tablet,MAC_OS_X,Apple WebKit,Browser
+wulanchabu,Tablet,MAC_OS_X,Mozilla,Browser
+wulanchabu,Tablet,MAC_OS_X,Firefox,Browser
+wulumuqi,Tablet,MAC_OS_X,Mozilla,Browser
+wuwei,Mobile,ANDROID,Safari,Browser
+wuxi,Tablet,MAC_OS_X,Opera,Browser
+wuzhong,Tablet,IOS,Apple WebKit,Browser
+wuzhou,Mobile,IOS,Apple WebKit,Browser
+wuzhou,Mobile,IOS,Firefox,Browser
+xiamen,Unknown,UNKNOWN,Unknown,unknown
+xiamen,Unknown,UNKNOWN,Opera,unknown
+xian,Unknown,LINUX,Opera,unknown
+xiangfan,Tablet,MAC_OS_X,Mozilla,Browser
+xianggang,Tablet,BADA,Unknown,unknown
+xianggang,Tablet,BADA,Opera,unknown
+xiangtan,Tablet,IOS,Firefox,Browser
+xiangxi,Tablet,IOS,Apple WebKit,Browser
+xianning,Tablet,IOS,Apple WebKit,Browser
+xianyang,Tablet,IOS,Opera,Browser
+xiaogan,Tablet,IOS,Firefox,Browser
+xilinguole,Mobile,ANDROID,Safari,Browser
+xingan,Mobile,IOS,Mozilla,Browser
+xingtai,Tablet,MAC_OS_X,Mozilla,Browser
+xining,Unknown,UNKNOWN,Apple WebKit,unknown
+xining,Unknown,UNKNOWN,Unknown,unknown
+xining,Unknown,UNKNOWN,Opera,unknown
+xining,Unknown,UNKNOWN,Firefox,unknown
+xinjiang,Computer,WINDOWS,Internet Explorer,Browser
+xinjiang,Computer,WINDOWS,Chrome,Browser
+xinxiang,Tablet,IOS,Firefox,Browser
+xinyang,Tablet,MAC_OS_X,Mozilla,Browser
+xinyu,Tablet,IOS,Apple WebKit,Browser
+xinzhou,Tablet,MAC_OS_X,Mozilla,Browser
+xishuangbanna,Tablet,IOS,Apple WebKit,Browser
+xizang,Computer,WINDOWS,Internet Explorer,Browser
+xuancheng,Tablet,MAC_OS_X,Mozilla,Browser
+xuchang,Tablet,MAC_OS_X,Mozilla,Browser
+xuzhou,Unknown,UNKNOWN,Mozilla,unknown
+xuzhou,Unknown,UNKNOWN_MOBILE,Mozilla,unknown
+xuzhou,Unknown,MAC_OS_X,Mozilla,unknown
+xuzhou,Unknown,LINUX,Mozilla,unknown
+yaan,Tablet,IOS,Opera,Browser
+yanan,Tablet,IOS,Chrome,Browser
+yanbian,Unknown,UNKNOWN,Mozilla,unknown
+yanbian,Unknown,UNKNOWN,Apple WebKit,unknown
+yancheng,Tablet,MAC_OS_X,Apple WebKit,Browser
+yancheng,Tablet,MAC_OS_X,Firefox,Browser
+yangjiang,Tablet,MAC_OS_X,Firefox,Browser
+yangjiang,Tablet,MAC_OS_X,Opera,Browser
+yangquan,Tablet,IOS,Apple WebKit,Browser
+yangquan,Tablet,IOS,Mozilla,Browser
+yangzhou,Tablet,MAC_OS_X,Apple WebKit,Browser
+yantai,Tablet,MAC_OS_X,Apple WebKit,Browser
+yantai,Tablet,MAC_OS_X,Mozilla,Browser
+yibin,Tablet,IOS,Firefox,Browser
+yichang,Tablet,IOS,Opera,Browser
+yichang,Tablet,IOS,Mozilla,Browser
+yichang,Tablet,IOS,Firefox,Browser
+yichang,Tablet,IOS,Apple WebKit,Browser
+yichun_134,Tablet,IOS,Opera,Browser
+yichun_134,Tablet,IOS,Firefox,Browser
+yichun_65,Tablet,MAC_OS_X,Chrome,Browser
+yili,Tablet,LINUX,Apple WebKit,Browser
+yili,Tablet,LINUX,Mozilla,Browser
+yinchuan,Unknown,UNKNOWN,Apple WebKit,unknown
+yinchuan,Unknown,UNKNOWN,Unknown,unknown
+yingkou,Tablet,IOS,Chrome,Browser
+yingtan,Tablet,IOS,Apple WebKit,Browser
+yiyang,Tablet,IOS,Firefox,Browser
+yiyang,Tablet,IOS,Mozilla,Browser
+yongzhou,Unknown,MAC_OS_X,Unknown,unknown
+yongzhou,Unknown,UNKNOWN,Unknown,unknown
+yueyang,Tablet,IOS,Mozilla,Browser
+yulin_238,Unknown,UNKNOWN,Unknown,unknown
+yulin_333,Tablet,IOS,Apple WebKit,Browser
+yuncheng,Tablet,IOS,Mozilla,Browser
+yunfu,Computer,WINDOWS,Firefox,Browser
+yunnan,Tablet,IOS,Apple WebKit,Browser
+yunnan,Tablet,MAC_OS_X,Apple WebKit,Browser
+yushu,Mobile,ANDROID,Safari,Browser
+yuxi,Tablet,WINDOWS,Apple WebKit,Browser
+zaozhuang,Tablet,IOS,Mozilla,Browser
+zhangjiajie,Tablet,IOS,Chrome,Browser
+zhangjiakou,Tablet,IOS,Firefox,Browser
+zhangjiakou,Tablet,IOS,Mozilla,Browser
+zhangye,Mobile,ANDROID,Safari,Browser
+zhangzhou,Computer,MAC_OS_X,Mozilla,Browser
+zhanjiang,Tablet,IOS,Apple WebKit,Browser
+zhaoqing,Tablet,MAC_OS_X,Mozilla,Browser
+zhaotong,Tablet,IOS,Apple WebKit,Browser
+zhejiang,Tablet,MAC_OS_X,Opera,Browser
+zhengzhou,Unknown,UNKNOWN,Unknown,unknown
+zhenjiang,Unknown,UNKNOWN,Apple WebKit,unknown
+zhongshan,Tablet,MAC_OS_X,Mozilla,Browser
+zhongwei,Tablet,IOS,Chrome,Browser
+zhoukou,Tablet,MAC_OS_X,Firefox,Browser
+zhoushan,Tablet,MAC_OS_X,Firefox,Browser
+zhuhai,Tablet,LINUX,Opera,unknown
+zhumadian,Tablet,IOS,Opera,Browser
+zhuzhou,Tablet,MAC_OS_X,Firefox,Browser
+zhuzhou,Tablet,MAC_OS_X,Apple WebKit,Browser
+zibo,Tablet,IOS,Opera,Browser
+zibo,Tablet,IOS,Apple WebKit,Browser
+zigong,Mobile,LINUX,Mozilla,Browser
+ziyang,Tablet,IOS,Opera,Browser
+zunyi,Tablet,IOS,Apple WebKit,Browser
